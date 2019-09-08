@@ -6,7 +6,7 @@ This project will be a re-creation of Google's TRex Runner game using Pygame.  I
 * Pygame - [Installing Pygame](https://www.pygame.org/wiki/GettingStarted)
 
 ## getting started
-Download the **no-internet.py file** and run it in your editor.
+Download the **no-internet.py** file and run it in your editor.
 
 Check the lesson folders to see the completed code for that club meeting.
 
