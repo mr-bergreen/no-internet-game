@@ -4,6 +4,7 @@ This project will be a re-creation of Google's TRex Runner game using Pygame.  I
 ## lessons
 * Lesson 1 - Running the project for the first time. Includes code from video 1.
 * Lesson 2 - Drawing a line. Includes code from video 2.
+* Lesson 3 - Drawing a rectangle. Includes code from video 3.
 
 ## prerequisites
 * Python - [Installing Python](https://www.python.org/downloads/)
