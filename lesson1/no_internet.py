@@ -1,4 +1,4 @@
-# no-internet-game - lesson 1
+# starter template for the no-internet-game
 
 import pygame
 from pygame.locals import *
@@ -15,7 +15,6 @@ clock = pygame.time.Clock()
 
 #------------ COLORS ------------#
 BLACK = (0, 0, 0)
-WHITE = (255, 255, 255)
 
 #------------ Game Loop ------------#
 while True:
@@ -30,8 +29,6 @@ while True:
 
   # Draw
   screen.fill(BLACK)
-  
-  pygame.draw.line(screen, WHITE, (0,HEIGHT/2), (WIDTH,HEIGHT/2))
 
   # Load
   pygame.display.flip()
