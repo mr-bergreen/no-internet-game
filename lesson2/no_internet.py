@@ -1,4 +1,4 @@
-# no-internet-game - lesson 1
+# no-internet-game - lesson 2
 
 import pygame
 from pygame.locals import *
