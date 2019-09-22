@@ -1,6 +1,9 @@
 # no-internet-game
 This project will be a re-creation of Google's TRex Runner game using Pygame.  It will be created by a high school Cyber Club during 2019-2020 for learning purposes.
 
+## lessons
+* Lesson 1 - Running the project for the first time and drawing a line. Includes code from videos 1 and 2.
+
 ## prerequisites
 * Python - [Installing Python](https://www.python.org/downloads/)
 * Pygame - [Installing Pygame](https://www.pygame.org/wiki/GettingStarted)
