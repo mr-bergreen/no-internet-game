@@ -7,7 +7,7 @@ This project will be a re-creation of Google's TRex Runner game using Pygame.  I
 * Lesson 3 - Drawing a rectangle. [Video Link](https://youtu.be/MPahXYv_Wfc)
 * Lesson 4 - Adding a player class. [Video Link](https://youtu.be/ZueXP3XGzdo)
 * Lesson 5 - Detecting input from the keyboard. [Video Link](https://youtu.be/zleUoB_V6Ns)
-* Lesson 6 - Jumping. [Video Link] (https://youtu.be/0kEY1bjfZb8)
+* Lesson 6 - Jumping. [Video Link](https://youtu.be/0kEY1bjfZb8)
 
 ## prerequisites
 * Python - [Installing Python](https://www.python.org/downloads/)
