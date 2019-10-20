@@ -61,6 +61,7 @@ while True:
     
     if event.type == KEYDOWN:
         if event.key == K_SPACE:
+          if player.state == "standing":
             player.jump()
 
   # Update
