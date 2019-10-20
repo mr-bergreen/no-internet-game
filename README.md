@@ -8,6 +8,8 @@ This project will be a re-creation of Google's TRex Runner game using Pygame.  I
 * Lesson 4 - Adding a player class. [Video Link](https://youtu.be/ZueXP3XGzdo)
 * Lesson 5 - Detecting input from the keyboard. [Video Link](https://youtu.be/zleUoB_V6Ns)
 * Lesson 6 - Jumping. [Video Link](https://youtu.be/0kEY1bjfZb8)
+* Lesson 7 - Obstacles. [Video Link](https://youtu.be/8Ba-9uKeVr4)
+* Lesson 8 - Obstacle types. [Video Link](https://youtu.be/pnv6s6mj-Ys)
 
 ## prerequisites
 * Python - [Installing Python](https://www.python.org/downloads/)
