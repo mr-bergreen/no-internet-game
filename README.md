@@ -11,7 +11,7 @@ This project will be a re-creation of Google's TRex Runner game using Pygame.  I
 * Lesson 7 - Obstacles. [Video Link](https://youtu.be/8Ba-9uKeVr4)
 * Lesson 8 - Obstacle types. [Video Link](https://youtu.be/pnv6s6mj-Ys)
 * Lesson 9 - Collision detection. [Video Link](https://youtu.be/q7u9fN_eXOk)
-* Lesson 10 - Score. [Video Link](https://youtu.be/7eGFt0CdGkc)
+* Lesson 10 - Score. [Video Link](https://youtu.be/jkzd1CV16b4)
 * Lesson 11 - Jump and Hit Sounds. [Video Link](https://youtu.be/ge-RkUqLjHE)
 
 ## prerequisites
